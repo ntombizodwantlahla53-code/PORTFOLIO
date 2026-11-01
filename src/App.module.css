@@ -1,0 +1,8 @@
+.page {
+    position: relative;
+    overflow-x: hidden;
+    min-height: 100vh;
+    background: radial-gradient(circle at 15% 0%, rgba(255, 77, 148, 0.16), transparent 40%), radial-gradient(circle at 90% 8%, rgba(139, 92, 246, 0.18), transparent 40%), #0d0914;
+    color: #f3eaf5;
+    font-family: 'Poppins', 'Segoe UI', system-ui, sans-serif;
+}
