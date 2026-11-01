@@ -11,7 +11,7 @@ const me = {
   email: "ntombizodwantlahla53@gmail.com",
   github: "https://github.com/ntombizodwantlahla53-code",
   linkedin: "https://www.linkedin.com/in/ntombizodwa-ntlahla-95a173254/",
-  cv: "/public/cv.pdf",
+  cv: "cv.pdf",
 };
 
 const roles = [
