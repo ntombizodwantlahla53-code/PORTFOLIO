@@ -5,7 +5,7 @@ import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
 const me = {
   name: "Ntombizodwa Ntlahla",
   initials: "NN",
-  photo: "/public/myself.jpg",
+  photo: "/myself.jpg",
   intro:
     "I build friendly, responsive web apps with React, TypeScript, Node.js and PostgreSQL. A business analysis graduate who loves turning real problems into simple, useful software.",
   email: "ntombizodwantlahla53@gmail.com",
